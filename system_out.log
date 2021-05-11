@@ -1,0 +1,1160 @@
+Process started on 2021.03.26 21:25:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+Exception in thread "Thread-2" java.lang.StringIndexOutOfBoundsException: begin 21, end -1, length 6680
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3319)
+	at java.base/java.lang.String.substring(String.java:1874)
+	at com.company.StocktwitsScraper.getDataJson(StocktwitsScraper.java:62)
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:50)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:110)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Exception in thread "Thread-9" java.lang.StringIndexOutOfBoundsException: begin 21, end -1, length 6680
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:3319)
+	at java.base/java.lang.String.substring(String.java:1874)
+	at com.company.StocktwitsScraper.getDataJson(StocktwitsScraper.java:62)
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:50)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:110)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Big OOPSIE, The size of the entries intended to be written out did not match, that of the output files!
+The entries contained 2984 entries, and there were 3735 lines in the output file
+Exception in thread "main" java.io.IOException: Program shut down in order to avoid any more unnecessary damage!
+	at com.company.Main.appendGoodFile(Main.java:73)
+	at com.company.Main.pi(Main.java:117)
+	at com.company.Main.main(Main.java:20)
+Process started on 2021.03.26 21:51:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.03.26 22:03:49
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 759 seconds
+Process started on 2021.03.27 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.03.27 15:22:14
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 724 seconds
+Process started on 2021.03.28 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.03.28 15:22:04
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 714 seconds
+Process started on 2021.03.29 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.03.29 15:22:01
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 711 seconds
+Process started on 2021.03.30 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.03.30 15:21:58
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 707 seconds
+Process started on 2021.03.31 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Process finished on 2021.03.31 15:22:47
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 758 seconds
+Process started on 2021.04.01 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.01 15:22:34
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 745 seconds
+Process started on 2021.04.02 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.02 15:22:18
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 728 seconds
+Process started on 2021.04.03 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.03 15:22:01
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 711 seconds
+Process started on 2021.04.04 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.04 15:22:15
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 724 seconds
+Process started on 2021.04.05 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.05 15:22:14
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 724 seconds
+Process started on 2021.04.06 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.06 15:22:38
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 748 seconds
+Process started on 2021.04.07 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.07 15:22:23
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 733 seconds
+Process started on 2021.04.08 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.08 15:22:31
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 741 seconds
+Process started on 2021.04.09 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.09 15:22:02
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 712 seconds
+Process started on 2021.04.10 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.10 15:22:10
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 720 seconds
+Process started on 2021.04.11 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.11 15:22:15
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 725 seconds
+Process started on 2021.04.12 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.12 15:22:21
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 731 seconds
+Process started on 2021.04.13 15:10:11
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.13 15:21:48
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 697 seconds
+Process started on 2021.04.14 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.14 15:22:14
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 724 seconds
+Process started on 2021.04.15 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+ápr. 15, 2021 3:14:29 DU. org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://stocktwits.com:443: The target server failed to respond
+ápr. 15, 2021 3:14:29 DU. org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {s}->https://stocktwits.com:443
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.15 15:21:28
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 679 seconds
+Process started on 2021.04.16 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.16 15:21:31
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 681 seconds
+Process started on 2021.04.17 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.17 15:22:32
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 742 seconds
+Process started on 2021.04.18 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.18 15:22:27
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 738 seconds
+Process started on 2021.04.19 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+Error getting the json object for the 0th time
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.19 15:22:26
+There was approximetly 1 times, when it run into a problem with creating the JSOn file
+Whole proces took 736 seconds
+Process started on 2021.04.20 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.20 15:22:42
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 752 seconds
+Process started on 2021.04.21 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.21 15:22:18
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 728 seconds
+Process started on 2021.04.22 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.22 15:22:04
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 715 seconds
+Process started on 2021.04.23 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.23 15:22:02
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 712 seconds
+Process started on 2021.04.24 15:10:11
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Process finished on 2021.04.24 15:22:36
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 744 seconds
+Process started on 2021.04.25 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.25 15:21:57
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 707 seconds
+Process started on 2021.04.26 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.26 15:22:22
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 733 seconds
+Process started on 2021.04.27 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.27 15:22:54
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 765 seconds
+Process started on 2021.04.28 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.04.28 15:22:47
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 757 seconds
+Process started on 2021.04.29 15:10:10
+The website returned 404 with the ticker NBAC
+Error getting the json object for the 0th time
+Error getting the json object for the 1th time
+Error getting the json object for the 2th time
+The website returned 404 with the ticker NK
+Error getting the json object for the 3th time
+The website returned 404 with the ticker SNSS
+Error with the link NM : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-6" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+Error getting the json object for the 4th time
+Error getting the json object for the 5th time
+Error getting the json object for the 6th time
+Error getting the json object for the 7th time
+Error getting the json object for the 8th time
+Error getting the json object for the 9th time
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Big OOPSIE, The size of the entries intended to be written out did not match, that of the output files!
+The entries contained 3361 entries, and there were 3735 lines in the output file
+Exception in thread "main" java.io.IOException: Program shut down in order to avoid any more unnecessary damage!
+	at com.company.Main.appendGoodFile(Main.java:73)
+	at com.company.Main.pi(Main.java:117)
+	at com.company.Main.main(Main.java:20)
+Process started on 2021.04.30 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+Error getting the json object for the 0th time
+Error getting the json object for the 1th time
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+Error getting the json object for the 2th time
+Error getting the json object for the 3th time
+Error getting the json object for the 4th time
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ROCH
+Error getting the json object for the 5th time
+Error getting the json object for the 6th time
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker ANCN
+Error getting the json object for the 7th time
+Error getting the json object for the 8th time
+The website returned 404 with the ticker GMBTU
+Error getting the json object for the 9th time
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker TRXC
+Error getting the json object for the 10th time
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Error getting the json object for the 11th time
+Process finished on 2021.04.30 15:27:03
+There was approximetly 12 times, when it run into a problem with creating the JSOn file
+Whole proces took 1012 seconds
+Process started on 2021.05.01 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker MWK
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+Process finished on 2021.05.01 15:22:26
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 736 seconds
+Process started on 2021.05.02 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker MWK
+Process finished on 2021.05.02 15:22:36
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 746 seconds
+Process started on 2021.05.03 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CHFS
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker MWK
+Process finished on 2021.05.03 15:22:58
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 768 seconds
+Process started on 2021.05.04 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CHFS
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker MWK
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.05.04 15:23:16
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 786 seconds
+Process started on 2021.05.05 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker BFT
+Error with the link HIL : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-4" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker STPK
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+Error with the link TESS : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-8" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link ARC : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-0" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link RL : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-7" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link DEO : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-2" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link OSN : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-6" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link GGG : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-3" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link WRN : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-9" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link BWEN : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-1" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Error with the link MDIA : java.net.SocketTimeoutException: Read timed out
+Exception in thread "Thread-5" java.lang.NullPointerException
+	at com.company.StocktwitsScraper.parsePages(StocktwitsScraper.java:46)
+	at com.company.StocktwitsScraper.run(StocktwitsScraper.java:109)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Big OOPSIE, The size of the entries intended to be written out did not match, that of the output files!
+The entries contained 0 entries, and there were 3735 lines in the output file
+Exception in thread "main" java.io.IOException: Program shut down in order to avoid any more unnecessary damage!
+	at com.company.Main.appendGoodFile(Main.java:73)
+	at com.company.Main.pi(Main.java:117)
+	at com.company.Main.main(Main.java:20)
+Process started on 2021.05.06 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker USAT
+máj. 06, 2021 3:13:09 DU. org.apache.http.impl.execchain.RetryExec execute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://stocktwits.com:443: The target server failed to respond
+máj. 06, 2021 3:13:09 DU. org.apache.http.impl.execchain.RetryExec execute
+INFO: Retrying request to {s}->https://stocktwits.com:443
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker STPK
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CHFS
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker MWK
+Process finished on 2021.05.06 15:23:17
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 787 seconds
+Process started on 2021.05.07 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NGA
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker STPK
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CHFS
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker MWK
+Process finished on 2021.05.07 15:23:16
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 786 seconds
+Process started on 2021.05.08 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NGA
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker STPK
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker MWK
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CHFS
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker CLA
+Process finished on 2021.05.08 15:21:45
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 695 seconds
+Process started on 2021.05.09 15:10:10
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NGA
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker STPK
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CHFS
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+The website returned 404 with the ticker MWK
+Process finished on 2021.05.09 15:22:43
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 753 seconds
+Process started on 2021.05.10 15:10:09
+The website returned 404 with the ticker NBAC
+The website returned 404 with the ticker NGA
+The website returned 404 with the ticker SNCA
+The website returned 404 with the ticker NK
+The website returned 404 with the ticker SNSS
+The website returned 404 with the ticker BFT
+The website returned 404 with the ticker USAT
+The website returned 404 with the ticker HMI
+The website returned 404 with the ticker NPA
+The website returned 404 with the ticker NTN
+The website returned 404 with the ticker AKER
+The website returned 404 with the ticker STPK
+The website returned 404 with the ticker CVLB
+The website returned 404 with the ticker ANCN
+The website returned 404 with the ticker ROCH
+The website returned 404 with the ticker IPV
+The website returned 404 with the ticker DMYD
+The website returned 404 with the ticker SBE
+The website returned 404 with the ticker GMBTU
+The website returned 404 with the ticker CGIX
+The website returned 404 with the ticker CGRO
+The website returned 404 with the ticker CHFS
+The website returned 404 with the ticker CIIC
+The website returned 404 with the ticker MWK
+The website returned 404 with the ticker TRXC
+The website returned 404 with the ticker CLA
+Process finished on 2021.05.10 15:23:11
+There was approximetly 0 times, when it run into a problem with creating the JSOn file
+Whole proces took 781 seconds
